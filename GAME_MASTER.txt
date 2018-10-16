@@ -5579,6 +5579,16 @@ item_templates {
   }
 }
 item_templates {
+  template_id: "BADGE_POKEDEX_ENTRIES_GEN4"
+  badge_settings {
+    badge_type: 51
+    badge_rank: 4
+    targets: 5
+    targets: 30
+    targets: 80
+  }
+}
+item_templates {
   template_id: "BADGE_POKESTOPS_VISITED"
   badge_settings {
     badge_type: BADGE_POKESTOPS_VISITED
@@ -8538,6 +8548,796 @@ item_templates {
     forms {
       form: 36
       asset_bundle_value: 14
+    }
+  }
+}
+item_templates {
+  template_id: "FORMS_V0387_POKEMON_TURTWIG"
+  form_settings {
+    pokemon: 387
+  }
+}
+item_templates {
+  template_id: "FORMS_V0388_POKEMON_GROTLE"
+  form_settings {
+    pokemon: 388
+  }
+}
+item_templates {
+  template_id: "FORMS_V0389_POKEMON_TORTERRA"
+  form_settings {
+    pokemon: 389
+  }
+}
+item_templates {
+  template_id: "FORMS_V0390_POKEMON_CHIMCHAR"
+  form_settings {
+    pokemon: 390
+  }
+}
+item_templates {
+  template_id: "FORMS_V0391_POKEMON_MONFERNO"
+  form_settings {
+    pokemon: 391
+  }
+}
+item_templates {
+  template_id: "FORMS_V0392_POKEMON_INFERNAPE"
+  form_settings {
+    pokemon: 392
+  }
+}
+item_templates {
+  template_id: "FORMS_V0393_POKEMON_PIPLUP"
+  form_settings {
+    pokemon: 393
+  }
+}
+item_templates {
+  template_id: "FORMS_V0394_POKEMON_PRINPLUP"
+  form_settings {
+    pokemon: 394
+  }
+}
+item_templates {
+  template_id: "FORMS_V0395_POKEMON_EMPOLEON"
+  form_settings {
+    pokemon: 395
+  }
+}
+item_templates {
+  template_id: "FORMS_V0396_POKEMON_STARLY"
+  form_settings {
+    pokemon: 396
+  }
+}
+item_templates {
+  template_id: "FORMS_V0397_POKEMON_STARAVIA"
+  form_settings {
+    pokemon: 397
+  }
+}
+item_templates {
+  template_id: "FORMS_V0398_POKEMON_STARAPTOR"
+  form_settings {
+    pokemon: 398
+  }
+}
+item_templates {
+  template_id: "FORMS_V0399_POKEMON_BIDOOF"
+  form_settings {
+    pokemon: 399
+  }
+}
+item_templates {
+  template_id: "FORMS_V0400_POKEMON_BIBAREL"
+  form_settings {
+    pokemon: 400
+  }
+}
+item_templates {
+  template_id: "FORMS_V0401_POKEMON_KRICKETOT"
+  form_settings {
+    pokemon: 401
+  }
+}
+item_templates {
+  template_id: "FORMS_V0402_POKEMON_KRICKETUNE"
+  form_settings {
+    pokemon: 402
+  }
+}
+item_templates {
+  template_id: "FORMS_V0403_POKEMON_SHINX"
+  form_settings {
+    pokemon: 403
+  }
+}
+item_templates {
+  template_id: "FORMS_V0404_POKEMON_LUXIO"
+  form_settings {
+    pokemon: 404
+  }
+}
+item_templates {
+  template_id: "FORMS_V0405_POKEMON_LUXRAY"
+  form_settings {
+    pokemon: 405
+  }
+}
+item_templates {
+  template_id: "FORMS_V0406_POKEMON_BUDEW"
+  form_settings {
+    pokemon: 406
+  }
+}
+item_templates {
+  template_id: "FORMS_V0407_POKEMON_ROSERADE"
+  form_settings {
+    pokemon: 407
+  }
+}
+item_templates {
+  template_id: "FORMS_V0408_POKEMON_CRANIDOS"
+  form_settings {
+    pokemon: 408
+  }
+}
+item_templates {
+  template_id: "FORMS_V0409_POKEMON_RAMPARDOS"
+  form_settings {
+    pokemon: 409
+  }
+}
+item_templates {
+  template_id: "FORMS_V0410_POKEMON_SHIELDON"
+  form_settings {
+    pokemon: 410
+  }
+}
+item_templates {
+  template_id: "FORMS_V0411_POKEMON_BASTIODON"
+  form_settings {
+    pokemon: 411
+  }
+}
+item_templates {
+  template_id: "FORMS_V0412_POKEMON_BURMY"
+  form_settings {
+    pokemon: 412
+  }
+}
+item_templates {
+  template_id: "FORMS_V0413_POKEMON_WORMADAM"
+  form_settings {
+    pokemon: 413
+    forms {
+      form: 87
+      asset_bundle_value: 11
+    }
+    forms {
+      form: 88
+      asset_bundle_value: 12
+    }
+    forms {
+      form: 89
+      asset_bundle_value: 13
+    }
+  }
+}
+item_templates {
+  template_id: "FORMS_V0414_POKEMON_MOTHIM"
+  form_settings {
+    pokemon: 414
+  }
+}
+item_templates {
+  template_id: "FORMS_V0415_POKEMON_COMBEE"
+  form_settings {
+    pokemon: 415
+  }
+}
+item_templates {
+  template_id: "FORMS_V0416_POKEMON_VESPIQUEN"
+  form_settings {
+    pokemon: 416
+  }
+}
+item_templates {
+  template_id: "FORMS_V0417_POKEMON_PACHIRISU"
+  form_settings {
+    pokemon: 417
+  }
+}
+item_templates {
+  template_id: "FORMS_V0418_POKEMON_BUIZEL"
+  form_settings {
+    pokemon: 418
+  }
+}
+item_templates {
+  template_id: "FORMS_V0419_POKEMON_FLOATZEL"
+  form_settings {
+    pokemon: 419
+  }
+}
+item_templates {
+  template_id: "FORMS_V0420_POKEMON_CHERUBI"
+  form_settings {
+    pokemon: 420
+  }
+}
+item_templates {
+  template_id: "FORMS_V0421_POKEMON_CHERRIM"
+  form_settings {
+    pokemon: 421
+    forms {
+      form: 94
+      asset_bundle_value: 11
+    }
+    forms {
+      form: 95
+      asset_bundle_value: 12
+    }
+  }
+}
+item_templates {
+  template_id: "FORMS_V0422_POKEMON_SHELLOS"
+  form_settings {
+    pokemon: 422
+    forms {
+      form: 96
+      asset_bundle_value: 11
+    }
+    forms {
+      form: 97
+      asset_bundle_value: 12
+    }
+  }
+}
+item_templates {
+  template_id: "FORMS_V0423_POKEMON_GASTRODON"
+  form_settings {
+    pokemon: 423
+    forms {
+      form: 98
+      asset_bundle_value: 11
+    }
+    forms {
+      form: 99
+      asset_bundle_value: 12
+    }
+  }
+}
+item_templates {
+  template_id: "FORMS_V0424_POKEMON_AMBIPOM"
+  form_settings {
+    pokemon: 424
+  }
+}
+item_templates {
+  template_id: "FORMS_V0425_POKEMON_DRIFLOON"
+  form_settings {
+    pokemon: 425
+  }
+}
+item_templates {
+  template_id: "FORMS_V0426_POKEMON_DRIFBLIM"
+  form_settings {
+    pokemon: 426
+  }
+}
+item_templates {
+  template_id: "FORMS_V0427_POKEMON_BUNEARY"
+  form_settings {
+    pokemon: 427
+  }
+}
+item_templates {
+  template_id: "FORMS_V0428_POKEMON_LOPUNNY"
+  form_settings {
+    pokemon: 428
+  }
+}
+item_templates {
+  template_id: "FORMS_V0429_POKEMON_MISMAGIUS"
+  form_settings {
+    pokemon: 429
+  }
+}
+item_templates {
+  template_id: "FORMS_V0430_POKEMON_HONCHKROW"
+  form_settings {
+    pokemon: 430
+  }
+}
+item_templates {
+  template_id: "FORMS_V0431_POKEMON_GLAMEOW"
+  form_settings {
+    pokemon: 431
+  }
+}
+item_templates {
+  template_id: "FORMS_V0432_POKEMON_PURUGLY"
+  form_settings {
+    pokemon: 432
+  }
+}
+item_templates {
+  template_id: "FORMS_V0433_POKEMON_CHINGLING"
+  form_settings {
+    pokemon: 433
+  }
+}
+item_templates {
+  template_id: "FORMS_V0434_POKEMON_STUNKY"
+  form_settings {
+    pokemon: 434
+  }
+}
+item_templates {
+  template_id: "FORMS_V0435_POKEMON_SKUNTANK"
+  form_settings {
+    pokemon: 435
+  }
+}
+item_templates {
+  template_id: "FORMS_V0436_POKEMON_BRONZOR"
+  form_settings {
+    pokemon: 436
+  }
+}
+item_templates {
+  template_id: "FORMS_V0437_POKEMON_BRONZONG"
+  form_settings {
+    pokemon: 437
+  }
+}
+item_templates {
+  template_id: "FORMS_V0438_POKEMON_BONSLY"
+  form_settings {
+    pokemon: 438
+  }
+}
+item_templates {
+  template_id: "FORMS_V0439_POKEMON_MIME_JR"
+  form_settings {
+    pokemon: 439
+  }
+}
+item_templates {
+  template_id: "FORMS_V0440_POKEMON_HAPPINY"
+  form_settings {
+    pokemon: 440
+  }
+}
+item_templates {
+  template_id: "FORMS_V0441_POKEMON_CHATOT"
+  form_settings {
+    pokemon: 441
+  }
+}
+item_templates {
+  template_id: "FORMS_V0442_POKEMON_SPIRITOMB"
+  form_settings {
+    pokemon: 442
+  }
+}
+item_templates {
+  template_id: "FORMS_V0443_POKEMON_GIBLE"
+  form_settings {
+    pokemon: 443
+  }
+}
+item_templates {
+  template_id: "FORMS_V0444_POKEMON_GABITE"
+  form_settings {
+    pokemon: 444
+  }
+}
+item_templates {
+  template_id: "FORMS_V0445_POKEMON_GARCHOMP"
+  form_settings {
+    pokemon: 445
+  }
+}
+item_templates {
+  template_id: "FORMS_V0446_POKEMON_MUNCHLAX"
+  form_settings {
+    pokemon: 446
+  }
+}
+item_templates {
+  template_id: "FORMS_V0447_POKEMON_RIOLU"
+  form_settings {
+    pokemon: 447
+  }
+}
+item_templates {
+  template_id: "FORMS_V0448_POKEMON_LUCARIO"
+  form_settings {
+    pokemon: 448
+  }
+}
+item_templates {
+  template_id: "FORMS_V0449_POKEMON_HIPPOPOTAS"
+  form_settings {
+    pokemon: 449
+  }
+}
+item_templates {
+  template_id: "FORMS_V0450_POKEMON_HIPPOWDON"
+  form_settings {
+    pokemon: 450
+  }
+}
+item_templates {
+  template_id: "FORMS_V0451_POKEMON_SKORUPI"
+  form_settings {
+    pokemon: 451
+  }
+}
+item_templates {
+  template_id: "FORMS_V0452_POKEMON_DRAPION"
+  form_settings {
+    pokemon: 452
+  }
+}
+item_templates {
+  template_id: "FORMS_V0453_POKEMON_CROAGUNK"
+  form_settings {
+    pokemon: 453
+  }
+}
+item_templates {
+  template_id: "FORMS_V0454_POKEMON_TOXICROAK"
+  form_settings {
+    pokemon: 454
+  }
+}
+item_templates {
+  template_id: "FORMS_V0455_POKEMON_CARNIVINE"
+  form_settings {
+    pokemon: 455
+  }
+}
+item_templates {
+  template_id: "FORMS_V0456_POKEMON_FINNEON"
+  form_settings {
+    pokemon: 456
+  }
+}
+item_templates {
+  template_id: "FORMS_V0457_POKEMON_LUMINEON"
+  form_settings {
+    pokemon: 457
+  }
+}
+item_templates {
+  template_id: "FORMS_V0458_POKEMON_MANTYKE"
+  form_settings {
+    pokemon: 458
+  }
+}
+item_templates {
+  template_id: "FORMS_V0459_POKEMON_SNOVER"
+  form_settings {
+    pokemon: 459
+  }
+}
+item_templates {
+  template_id: "FORMS_V0460_POKEMON_ABOMASNOW"
+  form_settings {
+    pokemon: 460
+  }
+}
+item_templates {
+  template_id: "FORMS_V0461_POKEMON_WEAVILE"
+  form_settings {
+    pokemon: 461
+  }
+}
+item_templates {
+  template_id: "FORMS_V0462_POKEMON_MAGNEZONE"
+  form_settings {
+    pokemon: 462
+  }
+}
+item_templates {
+  template_id: "FORMS_V0463_POKEMON_LICKILICKY"
+  form_settings {
+    pokemon: 463
+  }
+}
+item_templates {
+  template_id: "FORMS_V0464_POKEMON_RHYPERIOR"
+  form_settings {
+    pokemon: 464
+  }
+}
+item_templates {
+  template_id: "FORMS_V0465_POKEMON_TANGROWTH"
+  form_settings {
+    pokemon: 465
+  }
+}
+item_templates {
+  template_id: "FORMS_V0466_POKEMON_ELECTIVIRE"
+  form_settings {
+    pokemon: 466
+  }
+}
+item_templates {
+  template_id: "FORMS_V0467_POKEMON_MAGMORTAR"
+  form_settings {
+    pokemon: 467
+  }
+}
+item_templates {
+  template_id: "FORMS_V0468_POKEMON_TOGEKISS"
+  form_settings {
+    pokemon: 468
+  }
+}
+item_templates {
+  template_id: "FORMS_V0469_POKEMON_YANMEGA"
+  form_settings {
+    pokemon: 469
+  }
+}
+item_templates {
+  template_id: "FORMS_V0470_POKEMON_LEAFEON"
+  form_settings {
+    pokemon: 470
+  }
+}
+item_templates {
+  template_id: "FORMS_V0471_POKEMON_GLACEON"
+  form_settings {
+    pokemon: 471
+  }
+}
+item_templates {
+  template_id: "FORMS_V0472_POKEMON_GLISCOR"
+  form_settings {
+    pokemon: 472
+  }
+}
+item_templates {
+  template_id: "FORMS_V0473_POKEMON_MAMOSWINE"
+  form_settings {
+    pokemon: 473
+  }
+}
+item_templates {
+  template_id: "FORMS_V0474_POKEMON_PORYGON_Z"
+  form_settings {
+    pokemon: 474
+  }
+}
+item_templates {
+  template_id: "FORMS_V0475_POKEMON_GALLADE"
+  form_settings {
+    pokemon: 475
+  }
+}
+item_templates {
+  template_id: "FORMS_V0476_POKEMON_PROBOPASS"
+  form_settings {
+    pokemon: 476
+  }
+}
+item_templates {
+  template_id: "FORMS_V0477_POKEMON_DUSKNOIR"
+  form_settings {
+    pokemon: 477
+  }
+}
+item_templates {
+  template_id: "FORMS_V0478_POKEMON_FROSLASS"
+  form_settings {
+    pokemon: 478
+  }
+}
+item_templates {
+  template_id: "FORMS_V0479_POKEMON_ROTOM"
+  form_settings {
+    pokemon: 479
+    forms {
+      form: 81
+      asset_bundle_value: 11
+    }
+    forms {
+      form: 82
+      asset_bundle_value: 12
+    }
+    forms {
+      form: 83
+      asset_bundle_value: 13
+    }
+    forms {
+      form: 84
+      asset_bundle_value: 14
+    }
+    forms {
+      form: 85
+      asset_bundle_value: 15
+    }
+    forms {
+      form: 86
+      asset_bundle_value: 16
+    }
+  }
+}
+item_templates {
+  template_id: "FORMS_V0480_POKEMON_UXIE"
+  form_settings {
+    pokemon: 480
+  }
+}
+item_templates {
+  template_id: "FORMS_V0481_POKEMON_MESPRIT"
+  form_settings {
+    pokemon: 481
+  }
+}
+item_templates {
+  template_id: "FORMS_V0482_POKEMON_AZELF"
+  form_settings {
+    pokemon: 482
+  }
+}
+item_templates {
+  template_id: "FORMS_V0483_POKEMON_DIALGA"
+  form_settings {
+    pokemon: 483
+  }
+}
+item_templates {
+  template_id: "FORMS_V0484_POKEMON_PALKIA"
+  form_settings {
+    pokemon: 484
+  }
+}
+item_templates {
+  template_id: "FORMS_V0485_POKEMON_HEATRAN"
+  form_settings {
+    pokemon: 485
+  }
+}
+item_templates {
+  template_id: "FORMS_V0486_POKEMON_REGIGIGAS"
+  form_settings {
+    pokemon: 486
+  }
+}
+item_templates {
+  template_id: "FORMS_V0487_POKEMON_GIRATINA"
+  form_settings {
+    pokemon: 487
+    forms {
+      form: 90
+      asset_bundle_value: 11
+    }
+    forms {
+      form: 91
+      asset_bundle_value: 12
+    }
+  }
+}
+item_templates {
+  template_id: "FORMS_V0488_POKEMON_CRESSELIA"
+  form_settings {
+    pokemon: 488
+  }
+}
+item_templates {
+  template_id: "FORMS_V0489_POKEMON_PHIONE"
+  form_settings {
+    pokemon: 489
+  }
+}
+item_templates {
+  template_id: "FORMS_V0490_POKEMON_MANAPHY"
+  form_settings {
+    pokemon: 490
+  }
+}
+item_templates {
+  template_id: "FORMS_V0491_POKEMON_DARKRAI"
+  form_settings {
+    pokemon: 491
+  }
+}
+item_templates {
+  template_id: "FORMS_V0492_POKEMON_SHAYMIN"
+  form_settings {
+    pokemon: 492
+    forms {
+      form: 93
+      asset_bundle_value: 11
+    }
+    forms {
+      form: 92
+      asset_bundle_value: 12
+    }
+  }
+}
+item_templates {
+  template_id: "FORMS_V0493_POKEMON_ARCEUS"
+  form_settings {
+    pokemon: 493
+    forms {
+      form: 100
+      asset_bundle_value: 11
+    }
+    forms {
+      form: 101
+      asset_bundle_value: 12
+    }
+    forms {
+      form: 102
+      asset_bundle_value: 13
+    }
+    forms {
+      form: 103
+      asset_bundle_value: 14
+    }
+    forms {
+      form: 104
+      asset_bundle_value: 15
+    }
+    forms {
+      form: 105
+      asset_bundle_value: 16
+    }
+    forms {
+      form: 106
+      asset_bundle_value: 17
+    }
+    forms {
+      form: 107
+      asset_bundle_value: 18
+    }
+    forms {
+      form: 108
+      asset_bundle_value: 19
+    }
+    forms {
+      form: 109
+      asset_bundle_value: 20
+    }
+    forms {
+      form: 110
+      asset_bundle_value: 21
+    }
+    forms {
+      form: 111
+      asset_bundle_value: 22
+    }
+    forms {
+      form: 112
+      asset_bundle_value: 23
+    }
+    forms {
+      form: 113
+      asset_bundle_value: 24
+    }
+    forms {
+      form: 114
+      asset_bundle_value: 25
+    }
+    forms {
+      form: 115
+      asset_bundle_value: 26
+    }
+    forms {
+      form: 116
+      asset_bundle_value: 27
+    }
+    forms {
+      form: 117
+      asset_bundle_value: 28
     }
   }
 }
@@ -14011,6 +14811,1392 @@ item_templates {
   template_id: "SPAWN_V0386_POKEMON_DEOXYS_SPEED"
   gender_settings {
     pokemon: 386
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0387_POKEMON_TURTWIG"
+  gender_settings {
+    pokemon: 387
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0388_POKEMON_GROTLE"
+  gender_settings {
+    pokemon: 388
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0389_POKEMON_TORTERRA"
+  gender_settings {
+    pokemon: 389
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0390_POKEMON_CHIMCHAR"
+  gender_settings {
+    pokemon: 390
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0391_POKEMON_MONFERNO"
+  gender_settings {
+    pokemon: 391
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0392_POKEMON_INFERNAPE"
+  gender_settings {
+    pokemon: 392
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0393_POKEMON_PIPLUP"
+  gender_settings {
+    pokemon: 393
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0394_POKEMON_PRINPLUP"
+  gender_settings {
+    pokemon: 394
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0395_POKEMON_EMPOLEON"
+  gender_settings {
+    pokemon: 395
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0396_POKEMON_STARLY"
+  gender_settings {
+    pokemon: 396
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0397_POKEMON_STARAVIA"
+  gender_settings {
+    pokemon: 397
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0398_POKEMON_STARAPTOR"
+  gender_settings {
+    pokemon: 398
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0399_POKEMON_BIDOOF"
+  gender_settings {
+    pokemon: 399
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0400_POKEMON_BIBAREL"
+  gender_settings {
+    pokemon: 400
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0401_POKEMON_KRICKETOT"
+  gender_settings {
+    pokemon: 401
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0402_POKEMON_KRICKETUNE"
+  gender_settings {
+    pokemon: 402
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0403_POKEMON_SHINX"
+  gender_settings {
+    pokemon: 403
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0404_POKEMON_LUXIO"
+  gender_settings {
+    pokemon: 404
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0405_POKEMON_LUXRAY"
+  gender_settings {
+    pokemon: 405
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0406_POKEMON_BUDEW"
+  gender_settings {
+    pokemon: 406
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0407_POKEMON_ROSERADE"
+  gender_settings {
+    pokemon: 407
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0408_POKEMON_CRANIDOS"
+  gender_settings {
+    pokemon: 408
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0409_POKEMON_RAMPARDOS"
+  gender_settings {
+    pokemon: 409
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0410_POKEMON_SHIELDON"
+  gender_settings {
+    pokemon: 410
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0411_POKEMON_BASTIODON"
+  gender_settings {
+    pokemon: 411
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0412_POKEMON_BURMY"
+  gender_settings {
+    pokemon: 412
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0413_POKEMON_WORMADAM"
+  gender_settings {
+    pokemon: 413
+    gender {
+      female_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0413_POKEMON_WORMADAM_PLANT"
+  gender_settings {
+    pokemon: 413
+    gender {
+      female_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0413_POKEMON_WORMADAM_SANDY"
+  gender_settings {
+    pokemon: 413
+    gender {
+      female_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0413_POKEMON_WORMADAM_TRASH"
+  gender_settings {
+    pokemon: 413
+    gender {
+      female_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0414_POKEMON_MOTHIM"
+  gender_settings {
+    pokemon: 414
+    gender {
+      male_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0415_POKEMON_COMBEE"
+  gender_settings {
+    pokemon: 415
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0416_POKEMON_VESPIQUEN"
+  gender_settings {
+    pokemon: 416
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0417_POKEMON_PACHIRISU"
+  gender_settings {
+    pokemon: 417
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0418_POKEMON_BUIZEL"
+  gender_settings {
+    pokemon: 418
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0419_POKEMON_FLOATZEL"
+  gender_settings {
+    pokemon: 419
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0420_POKEMON_CHERUBI"
+  gender_settings {
+    pokemon: 420
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0421_POKEMON_CHERRIM"
+  gender_settings {
+    pokemon: 421
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0421_POKEMON_CHERRIM_OVERCAST"
+  gender_settings {
+    pokemon: 421
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0421_POKEMON_CHERRIM_SUNNY"
+  gender_settings {
+    pokemon: 421
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0422_POKEMON_SHELLOS"
+  gender_settings {
+    pokemon: 422
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0422_POKEMON_SHELLOS_EAST_SEA"
+  gender_settings {
+    pokemon: 422
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0422_POKEMON_SHELLOS_WEST_SEA"
+  gender_settings {
+    pokemon: 422
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0423_POKEMON_GASTRODON"
+  gender_settings {
+    pokemon: 423
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0423_POKEMON_GASTRODON_EAST_SEA"
+  gender_settings {
+    pokemon: 423
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0423_POKEMON_GASTRODON_WEST_SEA"
+  gender_settings {
+    pokemon: 423
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0424_POKEMON_AMBIPOM"
+  gender_settings {
+    pokemon: 424
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0425_POKEMON_DRIFLOON"
+  gender_settings {
+    pokemon: 425
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0426_POKEMON_DRIFBLIM"
+  gender_settings {
+    pokemon: 426
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0427_POKEMON_BUNEARY"
+  gender_settings {
+    pokemon: 427
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0428_POKEMON_LOPUNNY"
+  gender_settings {
+    pokemon: 428
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0429_POKEMON_MISMAGIUS"
+  gender_settings {
+    pokemon: 429
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0430_POKEMON_HONCHKROW"
+  gender_settings {
+    pokemon: 430
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0431_POKEMON_GLAMEOW"
+  gender_settings {
+    pokemon: 431
+    gender {
+      male_percent: 0.25
+      female_percent: 0.75
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0432_POKEMON_PURUGLY"
+  gender_settings {
+    pokemon: 432
+    gender {
+      male_percent: 0.25
+      female_percent: 0.75
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0433_POKEMON_CHINGLING"
+  gender_settings {
+    pokemon: 433
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0434_POKEMON_STUNKY"
+  gender_settings {
+    pokemon: 434
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0435_POKEMON_SKUNTANK"
+  gender_settings {
+    pokemon: 435
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0436_POKEMON_BRONZOR"
+  gender_settings {
+    pokemon: 436
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0437_POKEMON_BRONZONG"
+  gender_settings {
+    pokemon: 437
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0438_POKEMON_BONSLY"
+  gender_settings {
+    pokemon: 438
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0439_POKEMON_MIME_JR"
+  gender_settings {
+    pokemon: 439
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0440_POKEMON_HAPPINY"
+  gender_settings {
+    pokemon: 440
+    gender {
+      female_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0441_POKEMON_CHATOT"
+  gender_settings {
+    pokemon: 441
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0442_POKEMON_SPIRITOMB"
+  gender_settings {
+    pokemon: 442
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0443_POKEMON_GIBLE"
+  gender_settings {
+    pokemon: 443
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0444_POKEMON_GABITE"
+  gender_settings {
+    pokemon: 444
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0445_POKEMON_GARCHOMP"
+  gender_settings {
+    pokemon: 445
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0446_POKEMON_MUNCHLAX"
+  gender_settings {
+    pokemon: 446
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0447_POKEMON_RIOLU"
+  gender_settings {
+    pokemon: 447
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0448_POKEMON_LUCARIO"
+  gender_settings {
+    pokemon: 448
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0449_POKEMON_HIPPOPOTAS"
+  gender_settings {
+    pokemon: 449
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0450_POKEMON_HIPPOWDON"
+  gender_settings {
+    pokemon: 450
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0451_POKEMON_SKORUPI"
+  gender_settings {
+    pokemon: 451
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0452_POKEMON_DRAPION"
+  gender_settings {
+    pokemon: 452
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0453_POKEMON_CROAGUNK"
+  gender_settings {
+    pokemon: 453
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0454_POKEMON_TOXICROAK"
+  gender_settings {
+    pokemon: 454
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0455_POKEMON_CARNIVINE"
+  gender_settings {
+    pokemon: 455
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0456_POKEMON_FINNEON"
+  gender_settings {
+    pokemon: 456
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0457_POKEMON_LUMINEON"
+  gender_settings {
+    pokemon: 457
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0458_POKEMON_MANTYKE"
+  gender_settings {
+    pokemon: 458
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0459_POKEMON_SNOVER"
+  gender_settings {
+    pokemon: 459
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0460_POKEMON_ABOMASNOW"
+  gender_settings {
+    pokemon: 460
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0461_POKEMON_WEAVILE"
+  gender_settings {
+    pokemon: 461
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0462_POKEMON_MAGNEZONE"
+  gender_settings {
+    pokemon: 462
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0463_POKEMON_LICKILICKY"
+  gender_settings {
+    pokemon: 463
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0464_POKEMON_RHYPERIOR"
+  gender_settings {
+    pokemon: 464
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0465_POKEMON_TANGROWTH"
+  gender_settings {
+    pokemon: 465
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0466_POKEMON_ELECTIVIRE"
+  gender_settings {
+    pokemon: 466
+    gender {
+      male_percent: 0.75
+      female_percent: 0.25
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0467_POKEMON_MAGMORTAR"
+  gender_settings {
+    pokemon: 467
+    gender {
+      male_percent: 0.75
+      female_percent: 0.25
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0468_POKEMON_TOGEKISS"
+  gender_settings {
+    pokemon: 468
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0469_POKEMON_YANMEGA"
+  gender_settings {
+    pokemon: 469
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0470_POKEMON_LEAFEON"
+  gender_settings {
+    pokemon: 470
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0471_POKEMON_GLACEON"
+  gender_settings {
+    pokemon: 471
+    gender {
+      male_percent: 0.875
+      female_percent: 0.125
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0472_POKEMON_GLISCOR"
+  gender_settings {
+    pokemon: 472
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0473_POKEMON_MAMOSWINE"
+  gender_settings {
+    pokemon: 473
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0474_POKEMON_PORYGON_Z"
+  gender_settings {
+    pokemon: 474
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0475_POKEMON_GALLADE"
+  gender_settings {
+    pokemon: 475
+    gender {
+      male_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0476_POKEMON_PROBOPASS"
+  gender_settings {
+    pokemon: 476
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0477_POKEMON_DUSKNOIR"
+  gender_settings {
+    pokemon: 477
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0478_POKEMON_FROSLASS"
+  gender_settings {
+    pokemon: 478
+    gender {
+      female_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0479_POKEMON_ROTOM"
+  gender_settings {
+    pokemon: 479
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0479_POKEMON_ROTOM_FAN"
+  gender_settings {
+    pokemon: 479
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0479_POKEMON_ROTOM_FROST"
+  gender_settings {
+    pokemon: 479
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0479_POKEMON_ROTOM_HEAT"
+  gender_settings {
+    pokemon: 479
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0479_POKEMON_ROTOM_MOW"
+  gender_settings {
+    pokemon: 479
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0479_POKEMON_ROTOM_NORMAL"
+  gender_settings {
+    pokemon: 479
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0479_POKEMON_ROTOM_WASH"
+  gender_settings {
+    pokemon: 479
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0480_POKEMON_UXIE"
+  gender_settings {
+    pokemon: 480
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0481_POKEMON_MESPRIT"
+  gender_settings {
+    pokemon: 481
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0482_POKEMON_AZELF"
+  gender_settings {
+    pokemon: 482
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0483_POKEMON_DIALGA"
+  gender_settings {
+    pokemon: 483
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0484_POKEMON_PALKIA"
+  gender_settings {
+    pokemon: 484
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0485_POKEMON_HEATRAN"
+  gender_settings {
+    pokemon: 485
+    gender {
+      male_percent: 0.5
+      female_percent: 0.5
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0486_POKEMON_REGIGIGAS"
+  gender_settings {
+    pokemon: 486
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0487_POKEMON_GIRATINA"
+  gender_settings {
+    pokemon: 487
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0487_POKEMON_GIRATINA_ALTERED"
+  gender_settings {
+    pokemon: 487
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0487_POKEMON_GIRATINA_ORIGIN"
+  gender_settings {
+    pokemon: 487
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0488_POKEMON_CRESSELIA"
+  gender_settings {
+    pokemon: 488
+    gender {
+      female_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0489_POKEMON_PHIONE"
+  gender_settings {
+    pokemon: 489
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0490_POKEMON_MANAPHY"
+  gender_settings {
+    pokemon: 490
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0491_POKEMON_DARKRAI"
+  gender_settings {
+    pokemon: 491
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0492_POKEMON_SHAYMIN"
+  gender_settings {
+    pokemon: 492
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0492_POKEMON_SHAYMIN_LAND"
+  gender_settings {
+    pokemon: 492
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0492_POKEMON_SHAYMIN_SKY"
+  gender_settings {
+    pokemon: 492
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_BUG"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_DARK"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_DRAGON"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_ELECTRIC"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_FAIRY"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_FIGHTING"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_FIRE"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_FLYING"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_GHOST"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_GRASS"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_GROUND"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_ICE"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_NORMAL"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_POISON"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_PSYCHIC"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_ROCK"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_STEEL"
+  gender_settings {
+    pokemon: 493
+    gender {
+      genderless_percent: 1
+    }
+  }
+}
+item_templates {
+  template_id: "SPAWN_V0493_POKEMON_ARCEUS_WATER"
+  gender_settings {
+    pokemon: 493
     gender {
       genderless_percent: 1
     }
@@ -57657,5 +59843,5 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1541135239392
+timestamp_ms: 1539727786537
 
