@@ -1,4 +1,4 @@
-item_templates1 {
+item_templates {
   template_id: "AVATAR_f_backpack_cute_0"
   avatar_customization {
     enabled: true
