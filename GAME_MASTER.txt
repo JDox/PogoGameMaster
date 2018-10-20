@@ -41150,6 +41150,25 @@ item_templates {
   }
 }
 item_templates {
+  template_id: "V0301_MOVE_METEOR_MASH"
+  move_settings {
+    movement_id: 301
+    animation_id: 5
+    pokemon_type: POKEMON_TYPE_STEEL
+    power: 100
+    accuracy_chance: 1
+    critical_chance: 0.05
+    stamina_loss_scalar: 0.065
+    trainer_level_min: 1
+    trainer_level_max: 100
+    vfx_name: "meteor_mash"
+    duration_ms: 2600
+    damage_window_start_ms: 2300
+    damage_window_end_ms: 2500
+    energy_delta: -50
+  }
+}
+item_templates {
   template_id: "V0301_POKEMON_DELCATTY"
   pokemon_settings {
     pokemon_id: 301
@@ -67539,6 +67558,18 @@ item_templates {
   }
 }
 item_templates {
+  template_id: "sequence_meteor_mash"
+  move_sequence_settings {
+    sequence: "anim attacker atk-move"
+    sequence: "wait 0.5"
+    sequence: "vfx meteor_mash"
+    sequence: "sfx attacker 309-0_meteor_mash"
+    sequence: "wait 1.5"
+    sequence: "sys ui-sync"
+    sequence: "sys complete"
+  }
+}
+item_templates {
   template_id: "sequence_mirror_coat"
   move_sequence_settings {
     sequence: "anim attacker atk-move"
@@ -68817,5 +68848,5 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1540843355492
+timestamp_ms: 1540973880074
 
