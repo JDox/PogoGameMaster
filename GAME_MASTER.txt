@@ -54723,10 +54723,6 @@ item_templates {
     candy_to_evolve: 25
     km_buddy_distance: 20
     model_height: 0.36
-    evolution_branch {
-      evolution: 490
-      candy_cost: 50
-    }
   }
 }
 item_templates {
@@ -69051,5 +69047,5 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1541037430741
+timestamp_ms: 1541147822936
 
