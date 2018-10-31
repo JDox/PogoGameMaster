@@ -5544,6 +5544,9 @@ item_templates {
   }
 }
 item_templates {
+  template_id: "BACKGROUND_MODE_SETTINGS"
+}
+item_templates {
   template_id: "BADGE_APAC_PARTNER_JULY_2018_1"
   badge_settings {
     badge_type: 2011
@@ -40658,7 +40661,7 @@ item_templates {
       shoulder_mode_scale: 0.5
     }
     encounter {
-      base_capture_rate: 0.05
+      base_capture_rate: 0.06
       base_flee_rate: 0.05
       collision_radius_m: 0.25
       collision_height_m: 0.6
@@ -69047,5 +69050,5 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1542190453942
+timestamp_ms: 1541732243679
 
