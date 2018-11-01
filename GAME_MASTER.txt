@@ -40540,10 +40540,6 @@ item_templates {
       evolution: 291
       candy_cost: 50
     }
-    evolution_branch {
-      evolution: 292
-      candy_cost: 50
-    }
   }
 }
 item_templates {
@@ -40661,7 +40657,7 @@ item_templates {
       shoulder_mode_scale: 0.5
     }
     encounter {
-      base_capture_rate: 0.06
+      base_capture_rate: 0.05
       base_flee_rate: 0.05
       collision_radius_m: 0.25
       collision_height_m: 0.6
@@ -40685,8 +40681,8 @@ item_templates {
       base_attack: 153
       base_defense: 80
     }
-    quick_moves: BITE_FAST
-    quick_moves: STRUGGLE_BUG_FAST
+    quick_moves: BUG_BITE_FAST
+    quick_moves: SHADOW_CLAW_FAST
     cinematic_moves: SHADOW_SNEAK
     cinematic_moves: AERIAL_ACE
     cinematic_moves: DIG
@@ -69050,5 +69046,5 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1541757912464
+timestamp_ms: 1542491681175
 
