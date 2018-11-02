@@ -15361,8 +15361,8 @@ item_templates {
   gender_settings {
     pokemon: 418
     gender {
-      male_percent: 0.875
-      female_percent: 0.125
+      male_percent: 0.5
+      female_percent: 0.5
     }
   }
 }
@@ -15371,8 +15371,8 @@ item_templates {
   gender_settings {
     pokemon: 419
     gender {
-      male_percent: 0.875
-      female_percent: 0.125
+      male_percent: 0.5
+      female_percent: 0.5
     }
   }
 }
@@ -69046,5 +69046,5 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1542495132584
+timestamp_ms: 1542452440111
 
